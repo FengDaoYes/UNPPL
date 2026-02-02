@@ -1,5 +1,20 @@
 # UNPPL
-Windows 进程 PPL 属性研究的辅助工具，仅用于合法授权环境下的技术学习与研究，内网渗透方向学习研究
+Windows进程PPL属性研究的辅助工具，仅用于合法授权环境下的技术学习与研究。
+
+
+## 工具使用演示
+### 使用工具前
+![使用工具前效果](https://github.com/user-attachments/assets/c557855f-7bbb-4232-aaaf-468513c8457d)
+
+### 使用工具后
+![使用工具后效果](https://github.com/user-attachments/assets/81968b54-26bb-4bfd-9f33-b5c0af47e3f7)
+
+
+## 操作步骤
+1. 安装驱动：`UNPPLControl.exe install`
+2. 取消指定进程的PPL属性：`UNPPLControl.exe use 720`
+3. 卸载驱动：`UNPPLControl.exe uninstall`
+
 
 ## 免责声明
 本工具仅用于**合法授权环境下的Windows系统技术学习、研究目的**，严禁用于任何未经授权的系统操作、网络入侵、破坏信息安全等违法违规行为。
