@@ -7,7 +7,7 @@ Windows进程PPL属性研究的辅助工具，仅用于合法授权环境下的�
 ![使用工具前效果](https://github.com/user-attachments/assets/c557855f-7bbb-4232-aaaf-468513c8457d)
 
 ### 使用工具后
-![使用工具后效果](https://github.com/user-attachments/assets/e7bb557f-d044-4220-8d88-27eb00aa59df)
+![使用工具后效果](https://github.com/user-attachments/assets/5a955352-c1a1-4c93-b598-c0a14c196662)
 
 
 ## 操作步骤
